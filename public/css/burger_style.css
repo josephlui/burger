@@ -1,0 +1,19 @@
+.form-group {
+   
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+
+h1, p {
+    text-align: center;
+}
+
+.container {
+    width: 60%;
+}
+
+.row {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
